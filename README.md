@@ -8,6 +8,9 @@
 - 👀 I’m interested in Programming,Beekeeping and Bodybuilding.
 - 🌱 I’m currently learning Java,Python and  Software developing
 - 💞️ I’m looking to collaborate on  making insta/facebook  bots and helping in your Java-Assignments,Projects !
+- <a href="https://github.com/DzhanRafetov-UKTC">
+    <img width="55%" align="right" alt="Dzhan's github stats" src="https://github-readme-stats.vercel.app/api?username=DzhanRafetov-UKTC&show_icons=true&hide_border=true" />
+  </a>
 <!---
 DzhanRafetov-UKTC/DzhanRafetov-UKTC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
